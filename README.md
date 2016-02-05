@@ -13,3 +13,6 @@
 
 ### Tertiary
 1. playbook to set up a production predictionio env
+
+### Resources:
+1. [jupyter api post]("http://blog.ibmjstart.net/2016/01/28/jupyter-notebooks-as-restful-microservices/")
